@@ -1,2 +1,3 @@
 # Physics-Engine
-py
+3d physics engine 
+Algorithms:
