@@ -1,3 +1,3 @@
 # Physics-Engine
-3d physics engine 
-Algorithms:
+- 3d physics engine 
+##Algorithms:
